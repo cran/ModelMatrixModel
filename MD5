@@ -1,0 +1,12 @@
+0c86cdd9d8b5bfeeaf86deea09a58a9f *DESCRIPTION
+e69a219f344b52aa4c03e647a253a9fb *NAMESPACE
+3c6ab8adcebc530e352ec3ed582c1e30 *NEWS.md
+576193d9bcae90fec4607016ef8cf331 *R/model_matrix_model.r
+e58df966744dab66d88b0086760be052 *README.md
+aac3ffda756f83b7fff4696035d119cc *build/vignette.rds
+efcd8fbae256dd215086564c7044e103 *inst/doc/demo_ModelMatrixModel.R
+f48f7e5240b78fd95d59b46d0521cb4b *inst/doc/demo_ModelMatrixModel.Rmd
+d62c433c659f082713cb57abda42c269 *inst/doc/demo_ModelMatrixModel.html
+bd9cff378fc6bb449fc43fe96a00a89f *man/ModelMatrixModel.Rd
+c36804a4756c6d8757b719c139243e6c *man/predict.ModelMatrixModel.Rd
+f48f7e5240b78fd95d59b46d0521cb4b *vignettes/demo_ModelMatrixModel.Rmd
